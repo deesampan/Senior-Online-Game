@@ -14,10 +14,12 @@ Library: D:\MyUnityGame\Online RPG\Temp\BurstOutput\Data\Plugins\x86_64\lib_burs
 --assembly-defines=Unity.RenderPipelines.Universal.Config.Runtime;
 --assembly-defines=Unity.VisualScripting.Flow;
 --assembly-defines=PhotonChat;
+--assembly-defines=CFXRRuntime;
 --assembly-defines=PhotonUnityNetworking;
 --assembly-defines=Unity.RenderPipelines.Core.ShaderLibrary;
 --assembly-defines=Unity.Collections;
 --assembly-defines=Unity.2D.SpriteShape.Runtime;
+--assembly-defines=CFXRDemo;
 --assembly-defines=Unity.2D.PixelPerfect;
 --assembly-defines=PhotonUnityNetworking.Demos;
 --assembly-defines=PhotonUnityNetworking.Utilities;
@@ -25,6 +27,7 @@ Library: D:\MyUnityGame\Online RPG\Temp\BurstOutput\Data\Plugins\x86_64\lib_burs
 --assembly-defines=Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary;
 --assembly-defines=Unity.RenderPipelines.Universal.Runtime;
 --assembly-defines=Unity.Burst;
+--assembly-defines=KinoBloom.Runtime;
 --assembly-defines=Unity.VisualScripting.Core;
 --assembly-defines=Unity.2D.Animation.Runtime;
 --assembly-defines=Unity.2D.Tilemap.Extras;
@@ -123,10 +126,12 @@ Library: D:\MyUnityGame\Online RPG\Temp\BurstOutput\Data\Plugins\x86_64\lib_burs
 --assembly-defines=Unity.RenderPipelines.Universal.Config.Runtime;
 --assembly-defines=Unity.VisualScripting.Flow;
 --assembly-defines=PhotonChat;
+--assembly-defines=CFXRRuntime;
 --assembly-defines=PhotonUnityNetworking;
 --assembly-defines=Unity.RenderPipelines.Core.ShaderLibrary;
 --assembly-defines=Unity.Collections;
 --assembly-defines=Unity.2D.SpriteShape.Runtime;
+--assembly-defines=CFXRDemo;
 --assembly-defines=Unity.2D.PixelPerfect;
 --assembly-defines=PhotonUnityNetworking.Demos;
 --assembly-defines=PhotonUnityNetworking.Utilities;
@@ -134,6 +139,7 @@ Library: D:\MyUnityGame\Online RPG\Temp\BurstOutput\Data\Plugins\x86_64\lib_burs
 --assembly-defines=Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary;
 --assembly-defines=Unity.RenderPipelines.Universal.Runtime;
 --assembly-defines=Unity.Burst;
+--assembly-defines=KinoBloom.Runtime;
 --assembly-defines=Unity.VisualScripting.Core;
 --assembly-defines=Unity.2D.Animation.Runtime;
 --assembly-defines=Unity.2D.Tilemap.Extras;
@@ -234,10 +240,12 @@ Library: D:\MyUnityGame\Online RPG\Temp\BurstOutput\Data\Plugins\x86_64\lib_burs
 --assembly-defines=Unity.RenderPipelines.Universal.Config.Runtime;
 --assembly-defines=Unity.VisualScripting.Flow;
 --assembly-defines=PhotonChat;
+--assembly-defines=CFXRRuntime;
 --assembly-defines=PhotonUnityNetworking;
 --assembly-defines=Unity.RenderPipelines.Core.ShaderLibrary;
 --assembly-defines=Unity.Collections;
 --assembly-defines=Unity.2D.SpriteShape.Runtime;
+--assembly-defines=CFXRDemo;
 --assembly-defines=Unity.2D.PixelPerfect;
 --assembly-defines=PhotonUnityNetworking.Demos;
 --assembly-defines=PhotonUnityNetworking.Utilities;
@@ -245,6 +253,7 @@ Library: D:\MyUnityGame\Online RPG\Temp\BurstOutput\Data\Plugins\x86_64\lib_burs
 --assembly-defines=Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary;
 --assembly-defines=Unity.RenderPipelines.Universal.Runtime;
 --assembly-defines=Unity.Burst;
+--assembly-defines=KinoBloom.Runtime;
 --assembly-defines=Unity.VisualScripting.Core;
 --assembly-defines=Unity.2D.Animation.Runtime;
 --assembly-defines=Unity.2D.Tilemap.Extras;
@@ -311,10 +320,12 @@ Library: D:\MyUnityGame\Online RPG\Temp\BurstOutput\Data\Plugins\x86_64\lib_burs
 --assembly-defines=Unity.RenderPipelines.Universal.Config.Runtime;
 --assembly-defines=Unity.VisualScripting.Flow;
 --assembly-defines=PhotonChat;
+--assembly-defines=CFXRRuntime;
 --assembly-defines=PhotonUnityNetworking;
 --assembly-defines=Unity.RenderPipelines.Core.ShaderLibrary;
 --assembly-defines=Unity.Collections;
 --assembly-defines=Unity.2D.SpriteShape.Runtime;
+--assembly-defines=CFXRDemo;
 --assembly-defines=Unity.2D.PixelPerfect;
 --assembly-defines=PhotonUnityNetworking.Demos;
 --assembly-defines=PhotonUnityNetworking.Utilities;
@@ -322,6 +333,7 @@ Library: D:\MyUnityGame\Online RPG\Temp\BurstOutput\Data\Plugins\x86_64\lib_burs
 --assembly-defines=Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary;
 --assembly-defines=Unity.RenderPipelines.Universal.Runtime;
 --assembly-defines=Unity.Burst;
+--assembly-defines=KinoBloom.Runtime;
 --assembly-defines=Unity.VisualScripting.Core;
 --assembly-defines=Unity.2D.Animation.Runtime;
 --assembly-defines=Unity.2D.Tilemap.Extras;
